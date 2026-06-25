@@ -1,25 +1,11 @@
 # Microsoft OneDrive & SharePoint
 ## Practical Demonstration Guide
-### Task System IT Training Programme
+### Task Systems IT Training Programme
 
 ---
 
 > **How to use this guide:** This document accompanies the slide deck. Each section maps directly to a demo step (D1–D7). Follow the numbered steps exactly as shown. Screenshots are described in brackets so you know what to look for on your screen.
 
----
-
-## Pre-Session Checklist (Trainer)
-
-Before participants arrive, confirm the following:
-
-- [ ] You are signed into **office.com** with your Microsoft 365 account on the presentation screen
-- [ ] A sample test file is saved on your desktop (e.g. a Word document named `Training_Demo_File.docx`)
-- [ ] The room has reliable internet access
-- [ ] Participants have been advised to bring a laptop or tablet with browser access
-- [ ] You have the URL of your organisation's SharePoint Team Site ready
-- [ ] WiFi credentials are written on the whiteboard/screen for participants
-
----
 
 ## Pre-Session Checklist (Participants)
 
