@@ -344,7 +344,7 @@ The most powerful integration feature: making a SharePoint team library appear a
 5. Now from the browser, rename a file (right-click → Rename)
 6. Switch to File Explorer — the file name has changed there too
 
-> **Trainer note:** "This is the magic of the integration. Your team's shared SharePoint library is now just another folder on your PC. You don't need to open a browser to work with shared files."
+> "This is the magic of the integration. Your team's shared SharePoint library is now just another folder on your PC. You don't need to open a browser to work with shared files."
 
 **Step 5 — Understand the sync icons:**
 
@@ -358,41 +358,13 @@ Look at the files in File Explorer — you will see small icons:
 
 ---
 
----
 
-# BONUS WALKTHROUGH: Co-authoring in Real Time (Optional — if time allows)
-
-**Time:** ~3 minutes | **Service:** Both
-
-This walkthrough demonstrates real-time collaborative editing — multiple people working on the same document simultaneously.
-
-### Steps:
-
-**Step 1:** Ask one participant to open a Word document stored in the SharePoint Document Library (from D6 above).
-
-**Step 2:** Ask a second participant (or the trainer) to open the **same document** at the same time from their device.
-
-**Step 3:** Both participants start typing in different parts of the document.
-
-**What to observe:**
-- A coloured flag with the other person's name appears near their cursor
-- Changes appear in near real-time (within 1–2 seconds)
-- No "file is locked" message — SharePoint allows unlimited simultaneous editors
-- The document auto-saves every few seconds
-
-**Step 4:** One participant adds a comment (Insert → Comment → type a message → @mention the other person).
-
-The mentioned person receives an email notification with a direct link to the comment.
-
-> **Key takeaway:** "No more emailing versions back and forth. No more 'Document_v3_FINAL_JohnEdits_reviewed.docx'. One file. Multiple editors. Real time."
-
----
 
 ---
 
 # PARTICIPANT SELF-PRACTICE EXERCISES
 
-These exercises can be completed independently after the session using this guide.
+These exercises can be completed independently after this session using this guide.
 
 ---
 
