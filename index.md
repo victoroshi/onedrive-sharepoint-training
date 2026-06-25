@@ -7,7 +7,7 @@
 > **How to use this guide:** This document accompanies the slide deck. Each section maps directly to a demo step (D1–D7). Follow the numbered steps exactly as shown. Screenshots are described in brackets so you know what to look for on your screen.
 
 
-## Pre-Session Checklist (Participants)
+## Pre-Session Checklist
 
 Before we begin, please ensure:
 
@@ -49,14 +49,12 @@ https://office.com
 - **Recent** — files you recently opened
 - **Recycle bin** — deleted files (recoverable for 93 days)
 
-> **Trainer note:** Point out that the navigation panel on the left mirrors what you'd see in a typical File Explorer on Windows — it's intentionally familiar.
+> The **navigation panel** on the left mirrors what you’d see in a typical File Explorer on Windows — it’s intentionally familiar.
 
 **Step 5:** Look at the top of the screen. You will see:
 - A **New** button — to create files directly in OneDrive
 - An **Upload** button — to upload files from your device
 - A **Search** bar — to find any file instantly
-
-✅ **Checkpoint:** Everyone should see their OneDrive with a "My files" view. Ask: "Can everyone see the OneDrive page?"
 
 ---
 
@@ -101,7 +99,7 @@ How to upload a file from their device to OneDrive, and how to organise files in
 - The file should now show in your folder
 - Look for a **green checkmark** icon — this means the file is synced to the cloud
 
-> **Trainer note:** Explain the status icons:
+> **Status Explained:**
 > - ☁ Blue cloud = stored online only (not downloaded locally)
 > - ✓ Green checkmark = synced and available offline
 > - 🔄 Circular arrows = currently syncing
@@ -147,7 +145,7 @@ Option B: Right-click the file → click **Share**
 2. A confirmation appears: "Link copied"
 3. You can now paste this link into an email, Teams chat, or WhatsApp
 
-> **Trainer note:** Demonstrate: "Paste the link into your browser address bar and press Enter — you see the file exactly as a recipient would, with View Only access."
+> Paste the link into your browser address bar and press Enter — you see the file exactly as a recipient would, with View Only access.
 
 **Step 5 — Review who has access:**
 
@@ -196,7 +194,7 @@ OneDrive automatically saves the history of every change made to a file — and 
 3. Click **Restore**
 4. The file reverts to that earlier state — your latest edit is saved as its own version too
 
-> **Trainer note:** "Nothing is permanently destroyed. Even if someone accidentally deletes your entire report, you can recover it from version history within 93 days."
+>  "Nothing is permanently destroyed. Even if someone accidentally deletes your entire report, you can recover it from version history within 93 days."
 
 ✅ **Checkpoint:** Everyone should see at least 2 versions listed in the panel. If only one shows, wait a minute and refresh — OneDrive batches frequent saves.
 
